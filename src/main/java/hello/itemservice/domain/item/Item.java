@@ -11,7 +11,7 @@ public class Item {
     private int quantity;
 
 
-    public Item(Long id) {
+    public Item() {
 
     }
 
